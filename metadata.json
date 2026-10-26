@@ -1,0 +1,6 @@
+{
+  "name": "Survival Hero 3D - Real Life Skills Action Game",
+  "description": "An action-packed 3D survival game inspired by Free Fire, but where you learn real-world life-saving skills: CPR & First Aid, Fire & Disaster Survival, Cyber Security, and Emergency Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
